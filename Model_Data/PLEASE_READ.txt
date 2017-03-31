@@ -1,0 +1,1 @@
+Figure 11 is obtained by commenting out the AEROBIC section in maximize_cell_mass in DataDictionary and uncommenting the ANAEROBIC section
